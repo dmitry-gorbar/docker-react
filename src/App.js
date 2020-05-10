@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          By there change finish as  asd asd!
+          By there change finish - changed from branch!
         </p> 
         <a
           className="App-link"
